@@ -1,0 +1,12 @@
+{
+    "name": "drake/tp_1",
+    "authors": [
+        {
+            "name": "Adrian Brizuela",
+            "email": "adrianalebrizuela@gmail.com"
+        }
+    ],
+    "require": {
+        "namnv609/php-rest-countries": "^1.0"
+    }
+}
